@@ -1,0 +1,16 @@
+* {
+    background-color: pink;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header, img:hover {
+    background-color: white;
+    color: black;
+}
+
+body, p {
+    color: black
+}
+
