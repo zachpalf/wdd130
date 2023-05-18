@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    margin: 0;
+}
+div .joe{
+    border-radius: 50%;
+    width: 10%;
+    border: 4px black;
+    white-space: 4px black;
+    /* padding: 50%; */
+    border: 10px solid black;
+    margin: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+main .jim {
+    margin: 50%;
+}
+/* 
+margin 100px 0 class mountains */
