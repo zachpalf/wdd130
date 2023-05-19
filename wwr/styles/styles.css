@@ -7,6 +7,8 @@ nav a {
     text-align: center;
     color: beige;
     text-decoration: none;
+    font-family: 'Gill sans', 'Georgia', serif;
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4 {
@@ -27,6 +29,10 @@ main section {
 
 body {
     background: rgb(255, 255, 255);
+    font-family: Courier, Impact, Tahoma;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 
 header{
@@ -41,6 +47,10 @@ nav a:hover {
 .book, .join {
     background: #cbcbb1;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .book:hover, .join:hover {
@@ -54,15 +64,20 @@ nav a:hover {
 
 .msg {
     background: #7c7767;
+    line-height: 1.5em;
+    padding: 35px;
 }
 
 footer {
     background: #89a7bb;
     color: beige;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 .home-title {
     color: rgb(0, 0, 0);
+    margin-top: 10px;
 }
 
 .msg h2 {
@@ -71,6 +86,8 @@ footer {
 
 .msg p {
     color: beige;
+    font-size: .8em;
+    padding-bottom: 15px;
 }
 
 footer a {
@@ -88,6 +105,7 @@ footer a:hover {
 
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 #hero-img {
@@ -100,4 +118,37 @@ footer p {
 
 footer p a:hover {
     text-decoration: underline;
+}
+
+.home-title {
+    font-family: 'Gill sans', 'Georgia', serif;
+    font-size: 2em
+}
+
+.msg h2 {
+    font-family: 'Gill sans', 'Georgia', serif;
+}
+
+h2 {
+    margin: 0;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+footer .social img {
+    padding-top: 15px
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin:200px 0;
+}
+
+.card-img {
+    border: 10px solid #7c7767;
+}
+
+main section img {
+    box-sizing: border-box;
 }

@@ -1,23 +1,25 @@
 body {
-    background-color: gray;
     margin: 0;
+    font-size: 0;
 }
 div .joe{
     border-radius: 50%;
     width: 10%;
     border: 4px black;
     white-space: 4px black;
-    /* padding: 50%; */
-    border: 10px solid black;
+    border: 1vw solid black;
     margin: 20px;
 }
 
 div {
     text-align: center;
 }
-
-main .jim {
-    margin: 50%;
+#footer_photo {
+    background-color: grey;
 }
-/* 
-margin 100px 0 class mountains */
+.jim {
+    margin: 0;
+    height: 500%;
+    width: 100%;
+}
+/* margin 100px 0 class mountains */
