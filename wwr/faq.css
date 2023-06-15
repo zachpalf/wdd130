@@ -178,14 +178,14 @@ nav {
     font-family: Gills Sans, 'Times New Roman', Times, serif;
     font-size: 30px;
     margin-bottom: 5%;
-    margin-top:auto 10% ;
+    margin-top: 10% ;
     margin: auto 0%;
 }
 .sentence {
     text-indent: 10%;
     font-size: 20px;
-    margin-bottom: auto 0%;
-    margin-top:auto 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
 }
 .foot {
     font-size: 60%;
