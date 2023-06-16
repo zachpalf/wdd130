@@ -184,8 +184,7 @@ nav {
 .sentence {
     text-indent: 10%;
     font-size: 20px;
-    margin-bottom: 0 auto;
-    margin-top: 0 auto;
+    margin: 30px auto;
     
 }
 .foot {
