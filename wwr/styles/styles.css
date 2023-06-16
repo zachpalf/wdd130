@@ -78,6 +78,8 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-size: 60%;
+    justify-items: center;
 }
 
 .home-title {
