@@ -1,0 +1,23 @@
+.grid {
+    display: grid;
+    grid-template: auto auto auto;
+}
+
+.TS {
+
+}
+.C {
+   
+}
+
+.cherryimg {
+    height: 25%;
+    grid-column: 1/3;
+    grid-row: 1/6;
+}
+
+.background {
+    background-color: gray;
+    grid-column: 1/3;
+    grid-row: 1/6;
+}

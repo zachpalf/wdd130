@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    /* border-radius: 25px; */
+}
+.card {
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+}
+.headerimage {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+.awesomearticle {
+    padding: 10%;
+    text-align: center;
+}
+.title {
+    margin: 0 auto;
+    text-align: center;
+}
+.abovetitle {
+    margin: 0 auto;
+    text-align: center;
+}
+.headdiv {
+    padding: 5%;
+}
+.footer {
+    display: grid;
+    
+    background-color: steelblue;
+    width: 250px;
+    height: 65px;
+    border-radius: 0px 0px 10px 10px;
+
+}
